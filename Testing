@@ -1,1 +1,5 @@
 test for merging
+
+if(A=B && C=D)
+{
+}
