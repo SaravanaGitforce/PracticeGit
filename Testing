@@ -1,5 +1,5 @@
 test for merging
 
-if(A=B)
+if(A=B && C=D)
 {
 }
